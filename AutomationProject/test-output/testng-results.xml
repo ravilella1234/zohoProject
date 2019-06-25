@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ZohoSuite" duration-ms="145" started-at="2019-06-25T02:01:36Z" finished-at="2019-06-25T02:01:36Z">
+    <groups>
+    </groups>
+    <test name="ZohoTest" duration-ms="145" started-at="2019-06-25T02:01:36Z" finished-at="2019-06-25T02:01:36Z">
+      <class name="com.testcases.CreateLeadTest">
+        <test-method status="PASS" signature="f()[pri:0, instance:com.testcases.CreateLeadTest@4439f31e]" name="f" duration-ms="4" started-at="2019-06-25T02:01:36Z" finished-at="2019-06-25T02:01:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- com.testcases.CreateLeadTest -->
+      <class name="com.testcases.LoginTest">
+        <test-method status="PASS" signature="f()[pri:0, instance:com.testcases.LoginTest@215be6bb]" name="f" duration-ms="22" started-at="2019-06-25T02:01:36Z" finished-at="2019-06-25T02:01:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- com.testcases.LoginTest -->
+      <class name="com.testcases.CreatePotentialTest">
+        <test-method status="PASS" signature="f()[pri:0, instance:com.testcases.CreatePotentialTest@5dfcfece]" name="f" duration-ms="3" started-at="2019-06-25T02:01:36Z" finished-at="2019-06-25T02:01:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- com.testcases.CreatePotentialTest -->
+    </test> <!-- ZohoTest -->
+  </suite> <!-- ZohoSuite -->
+</testng-results>
